@@ -13,35 +13,4 @@ A lightweight Single Page Application framework built with jQuery that provides 
 - **Easy integration** with existing jQuery plugins
 
 
-
-### Configure routes:
-### Define routes with parameters:
-### Access route parameters:
-### Initialize the application:
-### Create your first component:
-### Use jQuery plugins easily:
-### Update component state:
-### Layout Components
-### Component-scoped styles:
-### API Integration
-
-
-# Build Project 
-
-#### Development
-npm run dev
-
-#### Production build
-npm run build
-
-#### Start development server
-npm run serve
-
-
-## 📦 Dependencies
-- Query 3.6.0+
-- rollup (for bundling)
-- postcss (for CSS processing)
-
-
 # Your Contribution will be appreciated
