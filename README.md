@@ -23,7 +23,7 @@ A lightweight Single Page Application framework built with jQuery that provides 
 ### Update component state:
 ### Layout Components
 ### Component-scoped styles:
-## API Integration
+### API Integration
 
 
 # Build Project 
